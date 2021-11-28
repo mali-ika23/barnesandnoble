@@ -7,12 +7,12 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
 
-	"button1": "Barnes And Noble",
+	"button1": "Noble",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -22,6 +22,6 @@
 
 	"BUTTON_NAME": "SHOP NOW",
 
-	"BUTTON_URL": "https://www.barnesandnoble.com/"
+	"BUTTON_URL": "https://sites.google.com/view/privacypolicyallinone/accueil"
 
 }
